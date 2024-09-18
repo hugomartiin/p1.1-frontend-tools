@@ -72,16 +72,16 @@ It format the file using the prettier when the file is saved.
 
   ![ ](img/index.html.png)
 
-1. **Create the basic html structure using the `!` snippet and change the title to 'Hello World'**
+8. **Create the basic html structure using the `!` snippet and change the title to 'Hello World'**
 
 
   ![ ](img/index.png)
 
-2.  **Create a new file called `app.js` and add this two lines**
+9.  **Create a new file called `app.js` and add this two lines**
 
   ![](img/apps.js.png)
 
-1.  **Import the script in your html using one of the techniques explained in class. Explain here the technique, show the code and justify why did you choose this technique**.
+10.  **Import the script in your html using one of the techniques explained in class. Explain here the technique, show the code and justify why did you choose this technique**.
   
   We add the javascript externally.
 
@@ -89,14 +89,14 @@ It format the file using the prettier when the file is saved.
 
   I use this technique because it mantains the html cleaner
 
-2.  **Launch `index.html` in Live Server and check that the script is running. Click right button and select inspect to show the developer tools and take a look on the console.**
+11.  **Launch `index.html` in Live Server and check that the script is running. Click right button and select inspect to show the developer tools and take a look on the console.**
    
      ![ ](img/launch.png)
 
      ![](img/launch%20console.png)
 
     
-3.  **Change some message in the JS code and sava changes. You can check that Live Server refreshes the web page.**
+12.  **Change some message in the JS code and sava changes. You can check that Live Server refreshes the web page.**
 
      ![ ](img/launch2.png)
 
